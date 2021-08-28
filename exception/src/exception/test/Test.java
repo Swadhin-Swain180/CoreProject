@@ -5,7 +5,7 @@ public class Test {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		int i=10;
+		int i=300;
 		int j=20;
 		add(i,j);
 
