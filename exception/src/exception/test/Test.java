@@ -24,7 +24,9 @@ public class Test {
 	 */
 	private static void addNumber(int i, int j) {
 		int c=i+j;
+		int d=i-j;
 		System.out.println(c);
+		System.out.println(d);
 	}
 
 }
